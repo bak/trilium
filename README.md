@@ -40,7 +40,7 @@ You can also read [Patterns of personal knowledge base](https://github.com/zadam
 
 Use a browser based dev environment
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zadam/trilium)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/bak/trilium)
 
 Or clone locally and run
 ```
